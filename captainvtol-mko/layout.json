@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/captainvtol-name/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399161780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132426641334328381
+    },
+    {
+      "path": "scenery/world/scenery/AIRPORT-MKO-POLY.BGL",
+      "size": 2574,
+      "date": 132426686367482374
+    },
+    {
+      "path": "scenery/world/scenery/airport-mko.bgl",
+      "size": 1406,
+      "date": 132426686367217146
+    }
+  ]
+}
