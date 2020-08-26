@@ -7,8 +7,8 @@ MKO Malekolon Airstrip in Papau New Guinea no longer exists, but is an airport i
 
 This airport is free to use and always will be, no matter what additional edits I make. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
 
-Current version: v1.0
-Image previews here: https://imgur.com/a/2IsHaui
+Current version: v1.1
+Image previews here: https://imgur.com/a/2QChEFh
 
 INSTALLATION INSTRUCTIONS
 1. While on the "Code" tab above, click the green "Code" button, then select Download Zip.
